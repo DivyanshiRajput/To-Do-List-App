@@ -13,5 +13,13 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "mongoose": "^5.12.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyanshiRajput/To-Do-List-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DivyanshiRajput/To-Do-List-App/issues"
+  },
+  "homepage": "https://github.com/DivyanshiRajput/To-Do-List-App#readme"
 }
