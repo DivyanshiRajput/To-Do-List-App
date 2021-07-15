@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/DivyanshiRajput/To-Do-List-App/issues"
   },
-  "homepage": "https://github.com/DivyanshiRajput/To-Do-List-App#readme"
+  "homepage": "https://github.com/DivyanshiRajput/To-Do-List-App#readme",
+
+  "scripts": {
+    "start": "node app.js"
+}
 }
